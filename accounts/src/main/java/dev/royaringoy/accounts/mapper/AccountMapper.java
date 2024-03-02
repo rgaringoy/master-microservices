@@ -1,7 +1,8 @@
 package dev.royaringoy.accounts.mapper;
 
 import dev.royaringoy.accounts.dto.AccountDto;
-import entity.Account;
+import dev.royaringoy.accounts.entity.Account;
+
 
 public class AccountMapper {
 

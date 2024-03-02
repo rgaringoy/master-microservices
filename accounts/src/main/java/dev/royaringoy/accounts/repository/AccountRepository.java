@@ -1,6 +1,6 @@
 package dev.royaringoy.accounts.repository;
 
-import entity.Account;
+import dev.royaringoy.accounts.entity.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
